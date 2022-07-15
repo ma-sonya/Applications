@@ -1,0 +1,39 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+@{
+    if (User.Identity.IsAuthenticated)
+    {
+        <p>@User.Identity.Name</p>
+
+        <form method="post" accept-charset="Account" asp-action="Logout" asp-controller="Account">
+            <input type="submit" value="Вихід" />
+        </form>
+        @if (User.Identity.IsAuthenticated && User.IsInRole("admin"))
+        {
+            <a asp-action="Index" asp-controller="Roles">Користувачі</a>
+        }
+
+    }
+    else
+    {
+        <div class="text-center">
+            <a asp-action="Register" asp-controller="Account">Реєстрація</a>
+        </div>
+        <div class="text-center">
+            <a asp-action="Login" asp-controller="Account">Вхід</a>
+        </div>
+    }
+}
+
+<div class="text-center">
+    <h1 class="display-4">Вітаю</h1>
+    <h1> </h1>
+    <h3>Ви в гуртожитку №16!))</h3>
+    <h1> </h1>
+    <h1> </h1>
+    <h5>При вході введіть логін та пароль:</h5>
+    <h6>masonya@gmail.com</h6>
+    <h6>Qwerty_1</h6>
+</div>

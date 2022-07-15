@@ -1,0 +1,16 @@
+﻿@model IEnumerable<DormWebApplication.Models.User>
+
+<h3>Список користувачів</h3>
+<table class="table">
+    @foreach (var user in Model)
+    {
+        <tr>
+            <td>@user.Email</td>
+            <td>
+                <a class="btn btn-sm btn-primary" asp-action="Edit" asp-route-userid="@user.Id">Права доступу</a>
+            </td>
+        </tr>
+    }
+</table>
+
+<a asp-action="Index">Назад</a>

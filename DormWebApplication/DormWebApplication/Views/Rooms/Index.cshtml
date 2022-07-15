@@ -1,0 +1,104 @@
+﻿@model IEnumerable<DormWebApplication.Room>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h3>Кімнати</h3>
+@if(User.Identity.IsAuthenticated && User.IsInRole("admin"))
+{
+   <p>
+    <a asp-action="Create">Створити нову</a>
+    </p> 
+}
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.RoomNumber)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Floor)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @if(User.Identity.IsAuthenticated && User.IsInRole("user"))
+        {
+            @foreach (var item in Model) 
+            {
+        <tr>
+@{
+                    string number = $"{item.RoomNumber}/{item.CountPlace}";
+                }
+            <td>           
+                @number
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Floor.FloorNumber)
+            </td>
+            <td>
+                <a asp-action="Details" asp-route-id="@item.Id">Деталі</a>
+            </td>
+        </tr>
+            }
+        }
+        else
+        {
+            @foreach (var item in Model)
+            {
+                <tr>
+                @{
+                    string number = $"{item.RoomNumber}/{item.CountPlace}";
+                }
+            <td>           
+                @number
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Floor.FloorNumber)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.Id">Змінити</a> |
+                <a asp-action="Details" asp-route-id="@item.Id">Деталі</a> |
+                <a asp-action="Delete" asp-route-id="@item.Id">Видалити</a>
+            </td>
+            </tr>
+            }
+        }
+    </tbody>
+</table>
+
+@if(User.Identity.IsAuthenticated && User.IsInRole("admin"))
+{
+<br />
+
+<div>
+    <h3>Оберіть excel-файл для завантаження</h3>
+    @using (Html.BeginForm("Import", "Rooms", FormMethod.Post, new { enctype = "multipart/form-data", id = "frm-excel" }))
+    {
+        <div >
+            <div>Завантажте Excel-файл:</div>
+                <div>
+                    <input type="file" name="fileExcel" id="fileExcel"/>
+                </div>
+                <div class="dropdown-divider"></div>
+                    <div>Підтвердити:</div>
+                <div>
+                    <input type="submit" value="Імпорт" /> 
+                </div>
+                <div class="dropdown-divider"></div>   
+                   <div>
+                        <h6>Завантаження інформації в файл</h6>
+                        <div class="form-group">
+                            <input asp-action="Export" type="submit" value="Експорт в Excel" class="btn btn-success" />
+                        </div>
+                        <div class="form-group">
+                            <input asp-action="DExport" type="submit" value="Експорт в Docs" class="btn btn-primary" />
+                        </div>
+                   </div>
+            </div>
+    }
+</div>
+}

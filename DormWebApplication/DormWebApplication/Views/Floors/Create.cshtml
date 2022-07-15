@@ -1,0 +1,50 @@
+﻿@model DormWebApplication.Floor
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h3>Створити новий поверх</h3>
+
+<h4 id="id">Поверх №</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="FloorNumber" class="control-label"></label>
+                <input asp-for="FloorNumber" class="form-control" onchange="func()" id = "name"/>
+                <span asp-validation-for="FloorNumber" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="ChiefId" class="control-label"></label>
+                <input asp-for="ChiefId" class="form-control" />
+                <span asp-validation-for="ChiefId" class="text-danger"></span>
+            </div>
+            <div class="form-group form-check">
+                <label class="form-check-label">
+                    <input class="form-check-input" asp-for="IsKitchenOpen" /> @Html.DisplayNameFor(model => model.IsKitchenOpen)
+                </label>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Створити" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Назад</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
+
+<script>
+    function func(){
+        let name = document.getElementById("name").value;
+        document.getElementById("id").innerHTML = "Поверх №" + name;
+    }
+</script>

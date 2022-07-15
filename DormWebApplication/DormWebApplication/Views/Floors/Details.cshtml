@@ -1,0 +1,47 @@
+﻿@model DormWebApplication.Floor
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h3>Деталі</h3>
+
+<div>
+    <h4>Поверх №@Model.FloorNumber</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.FloorNumber)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.FloorNumber)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.ChiefId)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.ChiefId)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.IsKitchenOpen)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.IsKitchenOpen)
+        </dd>
+    </dl>
+</div>
+
+@if(User.Identity.IsAuthenticated && User.IsInRole("admin"))
+{
+<div>
+    <a asp-action="Edit" asp-route-id="@Model?.Id">Змінити</a> |
+    <a asp-action="Index">Назад</a>
+</div> 
+}
+else
+{
+<div>
+    <a asp-action="Index">Назад</a>
+</div>
+}
+
