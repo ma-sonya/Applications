@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='D:\Пари\ООП\Lab#2\XML_Lab2\XSL.xsl'?>
+<DataBaseTable>
+	<faculty FCNAME="Computer Science and Cybernetics">
+		<group DEPNAME="K-26">
+			<section SECNAME="2" NAME="Yevtushenko Alexandra Alexandrovna" CATHEDRA="Theoretical cybernetics" AUDIENCE="202/3" CURRICULUM="2" STUDENTS="307024 " />
+		</group>
+	</faculty>
+</DataBaseTable>

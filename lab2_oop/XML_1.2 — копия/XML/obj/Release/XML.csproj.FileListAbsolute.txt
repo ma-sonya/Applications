@@ -1,0 +1,11 @@
+D:\Vs_project\XML_2.0\XML\bin\Release\XML.exe.config
+D:\Vs_project\XML_2.0\XML\bin\Release\XML.exe
+D:\Vs_project\XML_2.0\XML\bin\Release\XML.pdb
+D:\Vs_project\XML_2.0\XML\obj\Release\XML.csproj.AssemblyReference.cache
+D:\Vs_project\XML_2.0\XML\obj\Release\XML.Curriculum.resources
+D:\Vs_project\XML_2.0\XML\obj\Release\XML.Properties.Resources.resources
+D:\Vs_project\XML_2.0\XML\obj\Release\XML.StartForm.resources
+D:\Vs_project\XML_2.0\XML\obj\Release\XML.csproj.GenerateResource.cache
+D:\Vs_project\XML_2.0\XML\obj\Release\XML.csproj.CoreCompileInputs.cache
+D:\Vs_project\XML_2.0\XML\obj\Release\XML.exe
+D:\Vs_project\XML_2.0\XML\obj\Release\XML.pdb

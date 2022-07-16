@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='XSL.xsl'?>
+<DataBaseTable>
+	<faculty FCNAME="Computer Science and Cybernetics">
+		<group GROUPNAME="K-26">
+			<section
+					 COURSE="2"
+					 NAME ="Yevtushenko Alexandra Alexandrovna"
+					 CATHEDRA="Theoretical cybernetics"
+					 ROOM="202/3"
+					 FLOOR="2"
+					 NUMBER="307024">
+			</section>
+		</group>
+	</faculty>
+	<faculty FCNAME="Computer Science and Cybernetics">
+		<group GROUPNAME="TK-1">
+			<section
+					 COURSE="3"
+					 NAME="Demedyuk Vitaliy Ihorovych"
+					 CATHEDRA="Theoretical cybernetics"
+					 ROOM="522/2"
+					 FLOOR="5"
+					 NUMBER="320641">
+			</section>
+		</group>
+	</faculty>
+	<faculty FCNAME="Computer Science and Cybernetics">
+		<group GROUPNAME="K-15">
+			<section
+					 COURSE="1"
+					 NAME="Field Diana Rostislavovna"
+					 CATHEDRA="Numerical mathematics"
+					 ROOM="407/2"
+					 FLOOR="4"
+					 NUMBER="325812">
+			</section>
+		</group>
+	
+	</faculty>
+	<faculty FCNAME="Faculty of Information Technology">
+		<group GROUPNAME="F-23">
+			<section
+					 COURSE="2"
+					 NAME="Hrytsan Yuliya Mykolayivna"
+					 CATHEDRA="Systems analysis and acceptance theory"
+					 ROOM="403/2"
+					 FLOOR="4"
+					 NUMBER="325814">
+			</section>
+		</group>
+	</faculty>
+	<faculty FCNAME="Institute of Journalism">
+		<group GROUPNAME="I-15">
+			<section
+					 COURSE="1"
+					 NAME ="Datsenko Ilya Viktorovich"
+					 CATHEDRA="Theoretical cybernetics"
+					 ROOM="921/3"
+					 FLOOR="9"
+					 NUMBER="325817">
+			</section>
+		</group>
+	</faculty>
+</DataBaseTable>

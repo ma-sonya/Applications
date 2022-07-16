@@ -1,0 +1,115 @@
+D:\Vs_project\XML_2.0\XML\bin\Debug\XML.exe.config
+D:\Vs_project\XML_2.0\XML\bin\Debug\XML.exe
+D:\Vs_project\XML_2.0\XML\bin\Debug\XML.pdb
+D:\Vs_project\XML_2.0\XML\obj\Debug\XML.csproj.AssemblyReference.cache
+D:\Vs_project\XML_2.0\XML\obj\Debug\XML.Curriculum.resources
+D:\Vs_project\XML_2.0\XML\obj\Debug\XML.Properties.Resources.resources
+D:\Vs_project\XML_2.0\XML\obj\Debug\XML.StartForm.resources
+D:\Vs_project\XML_2.0\XML\obj\Debug\XML.csproj.GenerateResource.cache
+D:\Vs_project\XML_2.0\XML\obj\Debug\XML.csproj.CoreCompileInputs.cache
+D:\Vs_project\XML_2.0\XML\obj\Debug\XML.exe
+D:\Vs_project\XML_2.0\XML\obj\Debug\XML.pdb
+D:\Vs_project\XML_2.0\XML\bin\Debug\Eco.Handles.dll
+D:\Vs_project\XML_2.0\XML\bin\Debug\Eco.Interfaces.dll
+D:\Vs_project\XML_2.0\XML\bin\Debug\Eco.LinqExtender.dll
+D:\Vs_project\XML_2.0\XML\bin\Debug\Eco.WPF.dll
+D:\Vs_project\XML_2.0\XML\bin\Debug\WECPOFLogic.dll
+D:\Vs_project\XML_2.0\XML\bin\Debug\WPFViewModelExternalControls.dll
+D:\Vs_project\XML_2.0\XML\bin\Debug\System.Buffers.dll
+D:\Vs_project\XML_2.0\XML\obj\Debug\XML.csproj.CopyComplete
+C:\Users\Sophie\OneDrive\Робочий стіл\XML_1\XML\bin\Debug\XML.exe.config
+C:\Users\Sophie\OneDrive\Робочий стіл\XML_1\XML\bin\Debug\XML.exe
+C:\Users\Sophie\OneDrive\Робочий стіл\XML_1\XML\bin\Debug\XML.pdb
+C:\Users\Sophie\OneDrive\Робочий стіл\XML_1\XML\bin\Debug\Eco.Handles.dll
+C:\Users\Sophie\OneDrive\Робочий стіл\XML_1\XML\bin\Debug\Eco.Interfaces.dll
+C:\Users\Sophie\OneDrive\Робочий стіл\XML_1\XML\bin\Debug\Eco.LinqExtender.dll
+C:\Users\Sophie\OneDrive\Робочий стіл\XML_1\XML\bin\Debug\Eco.WPF.dll
+C:\Users\Sophie\OneDrive\Робочий стіл\XML_1\XML\bin\Debug\WECPOFLogic.dll
+C:\Users\Sophie\OneDrive\Робочий стіл\XML_1\XML\bin\Debug\WPFViewModelExternalControls.dll
+C:\Users\Sophie\OneDrive\Робочий стіл\XML_1\XML\bin\Debug\System.Buffers.dll
+C:\Users\Sophie\OneDrive\Робочий стіл\XML_1\XML\obj\Debug\XML.csproj.AssemblyReference.cache
+C:\Users\Sophie\OneDrive\Робочий стіл\XML_1\XML\obj\Debug\XML.Properties.Resources.resources
+C:\Users\Sophie\OneDrive\Робочий стіл\XML_1\XML\obj\Debug\XML.StartForm.resources
+C:\Users\Sophie\OneDrive\Робочий стіл\XML_1\XML\obj\Debug\XML.csproj.GenerateResource.cache
+C:\Users\Sophie\OneDrive\Робочий стіл\XML_1\XML\obj\Debug\XML.csproj.CoreCompileInputs.cache
+C:\Users\Sophie\OneDrive\Робочий стіл\XML_1\XML\obj\Debug\XML.csproj.CopyComplete
+C:\Users\Sophie\OneDrive\Робочий стіл\XML_1\XML\obj\Debug\XML.exe
+C:\Users\Sophie\OneDrive\Робочий стіл\XML_1\XML\obj\Debug\XML.pdb
+C:\Users\Sophie\OneDrive\Робочий стіл\XML_1\XML\obj\Debug\XML.Dorm16.resources
+C:\Users\Sophie\OneDrive\Робочий стіл\XML_1.2\XML\bin\Debug\XML.exe.config
+C:\Users\Sophie\OneDrive\Робочий стіл\XML_1.2\XML\bin\Debug\XML.exe
+C:\Users\Sophie\OneDrive\Робочий стіл\XML_1.2\XML\bin\Debug\XML.pdb
+C:\Users\Sophie\OneDrive\Робочий стіл\XML_1.2\XML\bin\Debug\Eco.Handles.dll
+C:\Users\Sophie\OneDrive\Робочий стіл\XML_1.2\XML\bin\Debug\Eco.Interfaces.dll
+C:\Users\Sophie\OneDrive\Робочий стіл\XML_1.2\XML\bin\Debug\Eco.LinqExtender.dll
+C:\Users\Sophie\OneDrive\Робочий стіл\XML_1.2\XML\bin\Debug\Eco.WPF.dll
+C:\Users\Sophie\OneDrive\Робочий стіл\XML_1.2\XML\bin\Debug\WECPOFLogic.dll
+C:\Users\Sophie\OneDrive\Робочий стіл\XML_1.2\XML\bin\Debug\WPFViewModelExternalControls.dll
+C:\Users\Sophie\OneDrive\Робочий стіл\XML_1.2\XML\bin\Debug\System.Buffers.dll
+C:\Users\Sophie\OneDrive\Робочий стіл\XML_1.2\XML\obj\Debug\XML.csproj.AssemblyReference.cache
+C:\Users\Sophie\OneDrive\Робочий стіл\XML_1.2\XML\obj\Debug\XML.Dorm16.resources
+C:\Users\Sophie\OneDrive\Робочий стіл\XML_1.2\XML\obj\Debug\XML.Properties.Resources.resources
+C:\Users\Sophie\OneDrive\Робочий стіл\XML_1.2\XML\obj\Debug\XML.StartForm.resources
+C:\Users\Sophie\OneDrive\Робочий стіл\XML_1.2\XML\obj\Debug\XML.csproj.GenerateResource.cache
+C:\Users\Sophie\OneDrive\Робочий стіл\XML_1.2\XML\obj\Debug\XML.csproj.CoreCompileInputs.cache
+C:\Users\Sophie\OneDrive\Робочий стіл\XML_1.2\XML\obj\Debug\XML.csproj.CopyComplete
+C:\Users\Sophie\OneDrive\Робочий стіл\XML_1.2\XML\obj\Debug\XML.exe
+C:\Users\Sophie\OneDrive\Робочий стіл\XML_1.2\XML\obj\Debug\XML.pdb
+C:\Users\Sophie\OneDrive\Робочий стіл\XML_1.2 — копия\XML\bin\Debug\XML.exe.config
+C:\Users\Sophie\OneDrive\Робочий стіл\XML_1.2 — копия\XML\bin\Debug\XML.exe
+C:\Users\Sophie\OneDrive\Робочий стіл\XML_1.2 — копия\XML\bin\Debug\XML.pdb
+C:\Users\Sophie\OneDrive\Робочий стіл\XML_1.2 — копия\XML\bin\Debug\Eco.Handles.dll
+C:\Users\Sophie\OneDrive\Робочий стіл\XML_1.2 — копия\XML\bin\Debug\Eco.Interfaces.dll
+C:\Users\Sophie\OneDrive\Робочий стіл\XML_1.2 — копия\XML\bin\Debug\Eco.LinqExtender.dll
+C:\Users\Sophie\OneDrive\Робочий стіл\XML_1.2 — копия\XML\bin\Debug\Eco.WPF.dll
+C:\Users\Sophie\OneDrive\Робочий стіл\XML_1.2 — копия\XML\bin\Debug\WECPOFLogic.dll
+C:\Users\Sophie\OneDrive\Робочий стіл\XML_1.2 — копия\XML\bin\Debug\WPFViewModelExternalControls.dll
+C:\Users\Sophie\OneDrive\Робочий стіл\XML_1.2 — копия\XML\bin\Debug\System.Buffers.dll
+C:\Users\Sophie\OneDrive\Робочий стіл\XML_1.2 — копия\XML\obj\Debug\XML.csproj.AssemblyReference.cache
+C:\Users\Sophie\OneDrive\Робочий стіл\XML_1.2 — копия\XML\obj\Debug\XML.Dorm16.resources
+C:\Users\Sophie\OneDrive\Робочий стіл\XML_1.2 — копия\XML\obj\Debug\XML.Properties.Resources.resources
+C:\Users\Sophie\OneDrive\Робочий стіл\XML_1.2 — копия\XML\obj\Debug\XML.StartForm.resources
+C:\Users\Sophie\OneDrive\Робочий стіл\XML_1.2 — копия\XML\obj\Debug\XML.csproj.GenerateResource.cache
+C:\Users\Sophie\OneDrive\Робочий стіл\XML_1.2 — копия\XML\obj\Debug\XML.csproj.CoreCompileInputs.cache
+C:\Users\Sophie\OneDrive\Робочий стіл\XML_1.2 — копия\XML\obj\Debug\XML.csproj.CopyComplete
+C:\Users\Sophie\OneDrive\Робочий стіл\XML_1.2 — копия\XML\obj\Debug\XML.exe
+C:\Users\Sophie\OneDrive\Робочий стіл\XML_1.2 — копия\XML\obj\Debug\XML.pdb
+C:\Users\Sophie\OneDrive\Робочий стіл\2 курс\lab2_oop\XML_1.2 — копия\XML\bin\Debug\XML.exe.config
+C:\Users\Sophie\OneDrive\Робочий стіл\2 курс\lab2_oop\XML_1.2 — копия\XML\bin\Debug\XML.exe
+C:\Users\Sophie\OneDrive\Робочий стіл\2 курс\lab2_oop\XML_1.2 — копия\XML\bin\Debug\XML.pdb
+C:\Users\Sophie\OneDrive\Робочий стіл\2 курс\lab2_oop\XML_1.2 — копия\XML\bin\Debug\Eco.Handles.dll
+C:\Users\Sophie\OneDrive\Робочий стіл\2 курс\lab2_oop\XML_1.2 — копия\XML\bin\Debug\Eco.Interfaces.dll
+C:\Users\Sophie\OneDrive\Робочий стіл\2 курс\lab2_oop\XML_1.2 — копия\XML\bin\Debug\Eco.LinqExtender.dll
+C:\Users\Sophie\OneDrive\Робочий стіл\2 курс\lab2_oop\XML_1.2 — копия\XML\bin\Debug\Eco.WPF.dll
+C:\Users\Sophie\OneDrive\Робочий стіл\2 курс\lab2_oop\XML_1.2 — копия\XML\bin\Debug\WECPOFLogic.dll
+C:\Users\Sophie\OneDrive\Робочий стіл\2 курс\lab2_oop\XML_1.2 — копия\XML\bin\Debug\WPFViewModelExternalControls.dll
+C:\Users\Sophie\OneDrive\Робочий стіл\2 курс\lab2_oop\XML_1.2 — копия\XML\bin\Debug\System.Buffers.dll
+C:\Users\Sophie\OneDrive\Робочий стіл\2 курс\lab2_oop\XML_1.2 — копия\XML\obj\Debug\XML.csproj.AssemblyReference.cache
+C:\Users\Sophie\OneDrive\Робочий стіл\2 курс\lab2_oop\XML_1.2 — копия\XML\obj\Debug\XML.Dorm16.resources
+C:\Users\Sophie\OneDrive\Робочий стіл\2 курс\lab2_oop\XML_1.2 — копия\XML\obj\Debug\XML.Properties.Resources.resources
+C:\Users\Sophie\OneDrive\Робочий стіл\2 курс\lab2_oop\XML_1.2 — копия\XML\obj\Debug\XML.StartForm.resources
+C:\Users\Sophie\OneDrive\Робочий стіл\2 курс\lab2_oop\XML_1.2 — копия\XML\obj\Debug\XML.csproj.GenerateResource.cache
+C:\Users\Sophie\OneDrive\Робочий стіл\2 курс\lab2_oop\XML_1.2 — копия\XML\obj\Debug\XML.csproj.CoreCompileInputs.cache
+C:\Users\Sophie\OneDrive\Робочий стіл\2 курс\lab2_oop\XML_1.2 — копия\XML\obj\Debug\XML.csproj.CopyComplete
+C:\Users\Sophie\OneDrive\Робочий стіл\2 курс\lab2_oop\XML_1.2 — копия\XML\obj\Debug\XML.exe
+C:\Users\Sophie\OneDrive\Робочий стіл\2 курс\lab2_oop\XML_1.2 — копия\XML\obj\Debug\XML.pdb
+C:\Users\Sophie\OneDrive\Робочий стіл\універ\2 курс\ООП\lab2_oop\XML_1.2 — копия\XML\bin\Debug\XML.exe.config
+C:\Users\Sophie\OneDrive\Робочий стіл\універ\2 курс\ООП\lab2_oop\XML_1.2 — копия\XML\bin\Debug\XML.exe
+C:\Users\Sophie\OneDrive\Робочий стіл\універ\2 курс\ООП\lab2_oop\XML_1.2 — копия\XML\bin\Debug\XML.pdb
+C:\Users\Sophie\OneDrive\Робочий стіл\універ\2 курс\ООП\lab2_oop\XML_1.2 — копия\XML\bin\Debug\Eco.Handles.dll
+C:\Users\Sophie\OneDrive\Робочий стіл\універ\2 курс\ООП\lab2_oop\XML_1.2 — копия\XML\bin\Debug\Eco.Interfaces.dll
+C:\Users\Sophie\OneDrive\Робочий стіл\універ\2 курс\ООП\lab2_oop\XML_1.2 — копия\XML\bin\Debug\Eco.LinqExtender.dll
+C:\Users\Sophie\OneDrive\Робочий стіл\універ\2 курс\ООП\lab2_oop\XML_1.2 — копия\XML\bin\Debug\Eco.WPF.dll
+C:\Users\Sophie\OneDrive\Робочий стіл\універ\2 курс\ООП\lab2_oop\XML_1.2 — копия\XML\bin\Debug\WECPOFLogic.dll
+C:\Users\Sophie\OneDrive\Робочий стіл\універ\2 курс\ООП\lab2_oop\XML_1.2 — копия\XML\bin\Debug\WPFViewModelExternalControls.dll
+C:\Users\Sophie\OneDrive\Робочий стіл\універ\2 курс\ООП\lab2_oop\XML_1.2 — копия\XML\bin\Debug\System.Buffers.dll
+C:\Users\Sophie\OneDrive\Робочий стіл\універ\2 курс\ООП\lab2_oop\XML_1.2 — копия\XML\obj\Debug\XML.csproj.AssemblyReference.cache
+C:\Users\Sophie\OneDrive\Робочий стіл\універ\2 курс\ООП\lab2_oop\XML_1.2 — копия\XML\obj\Debug\XML.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sophie\OneDrive\Робочий стіл\універ\2 курс\ООП\lab2_oop\XML_1.2 — копия\XML\obj\Debug\XML.Dorm16.resources
+C:\Users\Sophie\OneDrive\Робочий стіл\універ\2 курс\ООП\lab2_oop\XML_1.2 — копия\XML\obj\Debug\XML.Properties.Resources.resources
+C:\Users\Sophie\OneDrive\Робочий стіл\універ\2 курс\ООП\lab2_oop\XML_1.2 — копия\XML\obj\Debug\XML.StartForm.resources
+C:\Users\Sophie\OneDrive\Робочий стіл\універ\2 курс\ООП\lab2_oop\XML_1.2 — копия\XML\obj\Debug\XML.csproj.GenerateResource.cache
+C:\Users\Sophie\OneDrive\Робочий стіл\універ\2 курс\ООП\lab2_oop\XML_1.2 — копия\XML\obj\Debug\XML.csproj.CoreCompileInputs.cache
+C:\Users\Sophie\OneDrive\Робочий стіл\універ\2 курс\ООП\lab2_oop\XML_1.2 — копия\XML\obj\Debug\XML.csproj.CopyComplete
+C:\Users\Sophie\OneDrive\Робочий стіл\універ\2 курс\ООП\lab2_oop\XML_1.2 — копия\XML\obj\Debug\XML.exe
+C:\Users\Sophie\OneDrive\Робочий стіл\універ\2 курс\ООП\lab2_oop\XML_1.2 — копия\XML\obj\Debug\XML.pdb
