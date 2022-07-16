@@ -1,9 +1,0 @@
-C:\Users\Sophie\source\repos\testpage\bin\Debug\testpage.exe.config
-C:\Users\Sophie\source\repos\testpage\bin\Debug\testpage.exe
-C:\Users\Sophie\source\repos\testpage\bin\Debug\testpage.pdb
-C:\Users\Sophie\source\repos\testpage\obj\Debug\testpage.csproj.AssemblyReference.cache
-C:\Users\Sophie\source\repos\testpage\obj\Debug\testpage.Properties.Resources.resources
-C:\Users\Sophie\source\repos\testpage\obj\Debug\testpage.csproj.GenerateResource.cache
-C:\Users\Sophie\source\repos\testpage\obj\Debug\testpage.csproj.CoreCompileInputs.cache
-C:\Users\Sophie\source\repos\testpage\obj\Debug\testpage.exe
-C:\Users\Sophie\source\repos\testpage\obj\Debug\testpage.pdb
