@@ -1,9 +1,0 @@
-<Root dir="Test Folder\Reports" template="09">
-  <FoundedFiles count="1">
-    <File nr="001">
-      <Name>ERROR Found.bmp</Name>
-      <Path>Test Folder\Reports\Requests\2021\09\LastRoot\ERROR Found.bmp</Path>
-      <LastModifyDate>06.09.2021 13:15:58</LastModifyDate>
-    </File>
-  </FoundedFiles>
-</Root>
