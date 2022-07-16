@@ -1,0 +1,16 @@
+C:\Users\Sophie\source\repos\contwork\bin\Debug\net5.0\contwork.exe
+C:\Users\Sophie\source\repos\contwork\bin\Debug\net5.0\contwork.deps.json
+C:\Users\Sophie\source\repos\contwork\bin\Debug\net5.0\contwork.runtimeconfig.json
+C:\Users\Sophie\source\repos\contwork\bin\Debug\net5.0\contwork.runtimeconfig.dev.json
+C:\Users\Sophie\source\repos\contwork\bin\Debug\net5.0\contwork.dll
+C:\Users\Sophie\source\repos\contwork\bin\Debug\net5.0\ref\contwork.dll
+C:\Users\Sophie\source\repos\contwork\bin\Debug\net5.0\contwork.pdb
+C:\Users\Sophie\source\repos\contwork\obj\Debug\net5.0\contwork.csproj.AssemblyReference.cache
+C:\Users\Sophie\source\repos\contwork\obj\Debug\net5.0\contwork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sophie\source\repos\contwork\obj\Debug\net5.0\contwork.AssemblyInfoInputs.cache
+C:\Users\Sophie\source\repos\contwork\obj\Debug\net5.0\contwork.AssemblyInfo.cs
+C:\Users\Sophie\source\repos\contwork\obj\Debug\net5.0\contwork.csproj.CoreCompileInputs.cache
+C:\Users\Sophie\source\repos\contwork\obj\Debug\net5.0\contwork.dll
+C:\Users\Sophie\source\repos\contwork\obj\Debug\net5.0\ref\contwork.dll
+C:\Users\Sophie\source\repos\contwork\obj\Debug\net5.0\contwork.pdb
+C:\Users\Sophie\source\repos\contwork\obj\Debug\net5.0\contwork.genruntimeconfig.cache

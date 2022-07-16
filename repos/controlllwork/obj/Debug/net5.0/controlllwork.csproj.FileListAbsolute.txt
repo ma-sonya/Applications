@@ -1,0 +1,16 @@
+C:\Users\Sophie\source\repos\controlllwork\bin\Debug\net5.0\controlllwork.exe
+C:\Users\Sophie\source\repos\controlllwork\bin\Debug\net5.0\controlllwork.deps.json
+C:\Users\Sophie\source\repos\controlllwork\bin\Debug\net5.0\controlllwork.runtimeconfig.json
+C:\Users\Sophie\source\repos\controlllwork\bin\Debug\net5.0\controlllwork.runtimeconfig.dev.json
+C:\Users\Sophie\source\repos\controlllwork\bin\Debug\net5.0\controlllwork.dll
+C:\Users\Sophie\source\repos\controlllwork\bin\Debug\net5.0\ref\controlllwork.dll
+C:\Users\Sophie\source\repos\controlllwork\bin\Debug\net5.0\controlllwork.pdb
+C:\Users\Sophie\source\repos\controlllwork\obj\Debug\net5.0\controlllwork.csproj.AssemblyReference.cache
+C:\Users\Sophie\source\repos\controlllwork\obj\Debug\net5.0\controlllwork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sophie\source\repos\controlllwork\obj\Debug\net5.0\controlllwork.AssemblyInfoInputs.cache
+C:\Users\Sophie\source\repos\controlllwork\obj\Debug\net5.0\controlllwork.AssemblyInfo.cs
+C:\Users\Sophie\source\repos\controlllwork\obj\Debug\net5.0\controlllwork.csproj.CoreCompileInputs.cache
+C:\Users\Sophie\source\repos\controlllwork\obj\Debug\net5.0\controlllwork.dll
+C:\Users\Sophie\source\repos\controlllwork\obj\Debug\net5.0\ref\controlllwork.dll
+C:\Users\Sophie\source\repos\controlllwork\obj\Debug\net5.0\controlllwork.pdb
+C:\Users\Sophie\source\repos\controlllwork\obj\Debug\net5.0\controlllwork.genruntimeconfig.cache

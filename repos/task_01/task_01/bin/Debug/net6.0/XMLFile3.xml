@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Root dir="C:/Photos" template="Requests/2021/09">
+	<FoundedFiles count="5">
+		<File nr="001"></File>
+		<Name>Another1.pdf</Name>
+		<Path>C:/Photos/First/2021/06</Path>
+		<LastModifyDate> 06.09.2021 20:31:40</LastModifyDate>
+		<File nr="002"></File>
+		<Name>NewDa.txt</Name>
+		<Path>C:/Photos/Second/2021/07</Path>
+		<LastModifyDate> 07.07.2021 09:22:51</LastModifyDate>
+		<File nr="003"></File>
+		<Name>Filfdsfd.png</Name>
+		<Path>C:/Photos/Third/2021/01</Path>
+		<LastModifyDate> 03.01.2021 07:16:07</LastModifyDate>
+		<File nr="004"></File>
+		<Name>File0.png</Name>
+		<Path>C:/Photos/44/2021/01</Path>
+		<LastModifyDate> 03.01.2031 07:11:07</LastModifyDate>
+		<File nr="005"></File>
+		<Name>File0.png</Name>
+		<Path>C:/Photos/ff/2021/01</Path>
+		<LastModifyDate> 03.01.2014 07:11:07</LastModifyDate>
+	</FoundedFiles>
+</Root>

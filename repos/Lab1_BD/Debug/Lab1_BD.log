@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\Sophie\source\repos\Lab1_BD\Existing.h(27,61): warning C4018: '>': signed/unsigned mismatch
+C:\Users\Sophie\source\repos\Lab1_BD\Output.h(17,9): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'int'
+  Lab1_BD.vcxproj -> C:\Users\Sophie\source\repos\Lab1_BD\Debug\Lab1_BD.exe

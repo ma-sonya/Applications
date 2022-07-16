@@ -1,0 +1,15 @@
+C:\Users\Sophie\source\repos\chm_lab2_3\chm_lab2_3\bin\Debug\net6.0\chm_lab2_3.exe
+C:\Users\Sophie\source\repos\chm_lab2_3\chm_lab2_3\bin\Debug\net6.0\chm_lab2_3.deps.json
+C:\Users\Sophie\source\repos\chm_lab2_3\chm_lab2_3\bin\Debug\net6.0\chm_lab2_3.runtimeconfig.json
+C:\Users\Sophie\source\repos\chm_lab2_3\chm_lab2_3\bin\Debug\net6.0\chm_lab2_3.dll
+C:\Users\Sophie\source\repos\chm_lab2_3\chm_lab2_3\bin\Debug\net6.0\chm_lab2_3.pdb
+C:\Users\Sophie\source\repos\chm_lab2_3\chm_lab2_3\obj\Debug\net6.0\chm_lab2_3.csproj.AssemblyReference.cache
+C:\Users\Sophie\source\repos\chm_lab2_3\chm_lab2_3\obj\Debug\net6.0\chm_lab2_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sophie\source\repos\chm_lab2_3\chm_lab2_3\obj\Debug\net6.0\chm_lab2_3.AssemblyInfoInputs.cache
+C:\Users\Sophie\source\repos\chm_lab2_3\chm_lab2_3\obj\Debug\net6.0\chm_lab2_3.AssemblyInfo.cs
+C:\Users\Sophie\source\repos\chm_lab2_3\chm_lab2_3\obj\Debug\net6.0\chm_lab2_3.csproj.CoreCompileInputs.cache
+C:\Users\Sophie\source\repos\chm_lab2_3\chm_lab2_3\obj\Debug\net6.0\chm_lab2_3.dll
+C:\Users\Sophie\source\repos\chm_lab2_3\chm_lab2_3\obj\Debug\net6.0\refint\chm_lab2_3.dll
+C:\Users\Sophie\source\repos\chm_lab2_3\chm_lab2_3\obj\Debug\net6.0\chm_lab2_3.pdb
+C:\Users\Sophie\source\repos\chm_lab2_3\chm_lab2_3\obj\Debug\net6.0\chm_lab2_3.genruntimeconfig.cache
+C:\Users\Sophie\source\repos\chm_lab2_3\chm_lab2_3\obj\Debug\net6.0\ref\chm_lab2_3.dll

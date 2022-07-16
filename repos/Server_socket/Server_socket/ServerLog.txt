@@ -1,0 +1,4 @@
+[68]: [Sent: Enter command:
+Who/FileName.txt/Break
+ at: 2022-07-15.16:18:25]
+[72]: [Recieved: 様様様様様様様様様様様様様様様様様様様 at: 2022-07-15.16:18:29]

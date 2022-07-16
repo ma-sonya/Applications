@@ -1,0 +1,51 @@
+﻿@model BookStore_WebApplication.Order
+
+@{
+    ViewData["Title"] = "Add";
+}
+
+<h3>Оновити</h3>
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Add">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>            
+            <div>
+                <table>
+                    <tr>
+                        <th></th>
+                        <th></th>
+                    </tr>
+                     @foreach (var item in ViewBag.Books)
+                      {
+                         Book_BookOrderDto autDtoItem = (Book_BookOrderDto)item;
+                         <br/>
+                         <tr>
+                              <td>
+                                 <input type="hidden" asp-for="@autDtoItem.BookId" />
+                              </td>
+                              <td>
+                                 @Html.DisplayFor(modelItem => autDtoItem.Name)
+                              </td>
+                              <td>
+                                  <input id="@autDtoItem.BookId" name="@autDtoItem.BookId" asp-for="@autDtoItem.IsOrderedBook" />
+                              </td>
+                              <td>
+                                   <input type="hidden" asp-for="@autDtoItem.Number" />
+                              </td>
+                              <td>
+                                  <input name="number_@autDtoItem.BookId" asp-for="@autDtoItem.Number"/>
+                              </td>
+                          </tr>
+                      } 
+                  </table>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Зберегти" class="btn btn-success" />
+            </div>
+
+            <div>
+                <a asp-action="Index" asp-controller="UserOrders">Назад</a>
+            </div>
+        </form>
+    </div>
+</div>

@@ -1,0 +1,15 @@
+C:\Users\Sophie\source\repos\Newton\Newton\bin\Debug\net6.0\Newton.exe
+C:\Users\Sophie\source\repos\Newton\Newton\bin\Debug\net6.0\Newton.deps.json
+C:\Users\Sophie\source\repos\Newton\Newton\bin\Debug\net6.0\Newton.runtimeconfig.json
+C:\Users\Sophie\source\repos\Newton\Newton\bin\Debug\net6.0\Newton.dll
+C:\Users\Sophie\source\repos\Newton\Newton\bin\Debug\net6.0\Newton.pdb
+C:\Users\Sophie\source\repos\Newton\Newton\obj\Debug\net6.0\Newton.csproj.AssemblyReference.cache
+C:\Users\Sophie\source\repos\Newton\Newton\obj\Debug\net6.0\Newton.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sophie\source\repos\Newton\Newton\obj\Debug\net6.0\Newton.AssemblyInfoInputs.cache
+C:\Users\Sophie\source\repos\Newton\Newton\obj\Debug\net6.0\Newton.AssemblyInfo.cs
+C:\Users\Sophie\source\repos\Newton\Newton\obj\Debug\net6.0\Newton.csproj.CoreCompileInputs.cache
+C:\Users\Sophie\source\repos\Newton\Newton\obj\Debug\net6.0\Newton.dll
+C:\Users\Sophie\source\repos\Newton\Newton\obj\Debug\net6.0\refint\Newton.dll
+C:\Users\Sophie\source\repos\Newton\Newton\obj\Debug\net6.0\Newton.pdb
+C:\Users\Sophie\source\repos\Newton\Newton\obj\Debug\net6.0\Newton.genruntimeconfig.cache
+C:\Users\Sophie\source\repos\Newton\Newton\obj\Debug\net6.0\ref\Newton.dll

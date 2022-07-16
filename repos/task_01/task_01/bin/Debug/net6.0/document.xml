@@ -1,0 +1,108 @@
+<FolderCrawler>
+  <Folder name="Personal">
+    <Folder name="Joe Trumper">
+      <Folder name="Requests">
+        <Folder name="2021">
+          <Folder name="09" />
+          <File>
+            <Name>16_fd.bmp</Name>
+            <LastEdited>06.09.2021 13:15:58</LastEdited>
+            <Path>C:\Users\Sophie\OneDrive\Робочий стіл\Test Folder\Personal\Joe Trumper\Requests\2021\09\16_fd.bmp</Path>
+          </File>
+          <File>
+            <Name>Trumper01.txt</Name>
+            <LastEdited>06.09.2021 13:19:57</LastEdited>
+            <Path>C:\Users\Sophie\OneDrive\Робочий стіл\Test Folder\Personal\Joe Trumper\Requests\2021\09\Trumper01.txt</Path>
+          </File>
+          <Folder name="10" />
+          <File>
+            <Name>0003Copy.bmp</Name>
+            <LastEdited>06.09.2021 13:15:58</LastEdited>
+            <Path>C:\Users\Sophie\OneDrive\Робочий стіл\Test Folder\Personal\Joe Trumper\Requests\2021\10\0003Copy.bmp</Path>
+          </File>
+          <File>
+            <Name>Joe.txt</Name>
+            <LastEdited>06.09.2021 13:19:57</LastEdited>
+            <Path>C:\Users\Sophie\OneDrive\Робочий стіл\Test Folder\Personal\Joe Trumper\Requests\2021\10\Joe.txt</Path>
+          </File>
+        </Folder>
+        <Folder name="2022">
+          <Folder name="01" />
+          <File>
+            <Name>01.01.22.bmp</Name>
+            <LastEdited>06.09.2021 13:15:58</LastEdited>
+            <Path>C:\Users\Sophie\OneDrive\Робочий стіл\Test Folder\Personal\Joe Trumper\Requests\2022\01\01.01.22.bmp</Path>
+          </File>
+          <File>
+            <Name>Trumper01.01.22.txt</Name>
+            <LastEdited>06.09.2021 13:19:57</LastEdited>
+            <Path>C:\Users\Sophie\OneDrive\Робочий стіл\Test Folder\Personal\Joe Trumper\Requests\2022\01\Trumper01.01.22.txt</Path>
+          </File>
+        </Folder>
+      </Folder>
+    </Folder>
+    <Folder name="John Smith">
+      <Folder name="Requests">
+        <Folder name="2021">
+          <Folder name="09" />
+          <File>
+            <Name>0001 - Copy.bmp</Name>
+            <LastEdited>06.09.2021 13:15:58</LastEdited>
+            <Path>C:\Users\Sophie\OneDrive\Робочий стіл\Test Folder\Personal\John Smith\Requests\2021\09\0001 - Copy.bmp</Path>
+          </File>
+          <File>
+            <Name>CR_06-09-12.txt</Name>
+            <LastEdited>06.09.2021 13:19:57</LastEdited>
+            <Path>C:\Users\Sophie\OneDrive\Робочий стіл\Test Folder\Personal\John Smith\Requests\2021\09\CR_06-09-12.txt</Path>
+          </File>
+          <Folder name="10" />
+          <File>
+            <Name>0002Copy.bmp</Name>
+            <LastEdited>06.09.2021 13:15:58</LastEdited>
+            <Path>C:\Users\Sophie\OneDrive\Робочий стіл\Test Folder\Personal\John Smith\Requests\2021\10\0002Copy.bmp</Path>
+          </File>
+          <File>
+            <Name>CR_06-10-12.txt</Name>
+            <LastEdited>06.09.2021 13:19:57</LastEdited>
+            <Path>C:\Users\Sophie\OneDrive\Робочий стіл\Test Folder\Personal\John Smith\Requests\2021\10\CR_06-10-12.txt</Path>
+          </File>
+        </Folder>
+      </Folder>
+    </Folder>
+    <Folder name="Peter Parker">
+      <Folder name="Requests">
+        <Folder name="2021">
+          <Folder name="01" />
+          <File>
+            <Name>Test_Peter.txt</Name>
+            <LastEdited>06.09.2021 13:22:10</LastEdited>
+            <Path>C:\Users\Sophie\OneDrive\Робочий стіл\Test Folder\Personal\Peter Parker\Requests\2021\01\Test_Peter.txt</Path>
+          </File>
+          <Folder name="09" />
+          <File>
+            <Name>001313.jpeg</Name>
+            <LastEdited>06.09.2021 13:15:58</LastEdited>
+            <Path>C:\Users\Sophie\OneDrive\Робочий стіл\Test Folder\Personal\Peter Parker\Requests\2021\09\001313.jpeg</Path>
+          </File>
+          <File>
+            <Name>CR_11-09-12.txt</Name>
+            <LastEdited>06.09.2021 13:19:57</LastEdited>
+            <Path>C:\Users\Sophie\OneDrive\Робочий стіл\Test Folder\Personal\Peter Parker\Requests\2021\09\CR_11-09-12.txt</Path>
+          </File>
+          <Folder name="10" />
+          <File>
+            <Name>0003Copy.bmp</Name>
+            <LastEdited>06.09.2021 13:15:58</LastEdited>
+            <Path>C:\Users\Sophie\OneDrive\Робочий стіл\Test Folder\Personal\Peter Parker\Requests\2021\10\0003Copy.bmp</Path>
+          </File>
+          <File>
+            <Name>CR_16-10-12.txt</Name>
+            <LastEdited>06.09.2021 13:19:57</LastEdited>
+            <Path>C:\Users\Sophie\OneDrive\Робочий стіл\Test Folder\Personal\Peter Parker\Requests\2021\10\CR_16-10-12.txt</Path>
+          </File>
+        </Folder>
+      </Folder>
+    </Folder>
+    <Folder name="Sebastian MБller" />
+  </Folder>
+</FolderCrawler>

@@ -1,0 +1,40 @@
+﻿  Game6.cpp
+C:\Users\Sophie\source\repos\Game6\Game6\MyFramework.h(130,53): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Sophie\source\repos\Game6\Game6\MyFramework.h(130,37): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Sophie\source\repos\Game6\Game6\MyFramework.h(153,25): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Sophie\source\repos\Game6\Game6\MyFramework.h(154,25): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Sophie\source\repos\Game6\Game6\MyFramework.h(168,19): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Sophie\source\repos\Game6\Game6\MyFramework.h(169,19): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Sophie\source\repos\Game6\Game6\Game6.cpp(11,33): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Sophie\source\repos\Game6\Game6\Game6.cpp(38,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  MyDLAsteroidsFramework.cpp
+C:\Users\Sophie\source\repos\Game6\Game6\MyDLAsteroidsFramework.cpp(48,33): warning C4244: 'argument': conversion from 'const float' to 'int', possible loss of data
+C:\Users\Sophie\source\repos\Game6\Game6\MyDLAsteroidsFramework.cpp(48,25): warning C4244: 'argument': conversion from 'const float' to 'int', possible loss of data
+C:\Users\Sophie\source\repos\Game6\Game6\MyDLAsteroidsFramework.cpp(60,32): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Sophie\source\repos\Game6\Game6\MyDLAsteroidsFramework.cpp(60,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Sophie\source\repos\Game6\Game6\MyDLAsteroidsFramework.cpp(67,41): warning C4244: 'argument': conversion from 'const float' to 'int', possible loss of data
+C:\Users\Sophie\source\repos\Game6\Game6\MyDLAsteroidsFramework.cpp(67,33): warning C4244: 'argument': conversion from 'const float' to 'int', possible loss of data
+C:\Users\Sophie\source\repos\Game6\Game6\MyDLAsteroidsFramework.cpp(94,65): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Sophie\source\repos\Game6\Game6\MyDLAsteroidsFramework.cpp(94,62): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Sophie\source\repos\Game6\Game6\MyDLAsteroidsFramework.cpp(113,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Sophie\source\repos\Game6\Game6\MyDLAsteroidsFramework.cpp(113,36): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Sophie\source\repos\Game6\Game6\MyDLAsteroidsFramework.cpp(120,34): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Sophie\source\repos\Game6\Game6\MyDLAsteroidsFramework.cpp(120,26): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Sophie\source\repos\Game6\Game6\MyDLAsteroidsFramework.cpp(121,14): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Sophie\source\repos\Game6\Game6\MyDLAsteroidsFramework.cpp(122,14): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Sophie\source\repos\Game6\Game6\MyDLAsteroidsFramework.cpp(305,55): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Sophie\source\repos\Game6\Game6\MyDLAsteroidsFramework.cpp(305,40): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Sophie\source\repos\Game6\Game6\MyDLAsteroidsFramework.cpp(312,62): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Sophie\source\repos\Game6\Game6\MyDLAsteroidsFramework.cpp(312,59): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Sophie\source\repos\Game6\Game6\MyDLAsteroidsFramework.cpp(383,53): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Sophie\source\repos\Game6\Game6\MyDLAsteroidsFramework.cpp(382,52): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Sophie\source\repos\Game6\Game6\MyDLAsteroidsFramework.cpp(463,78): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Sophie\source\repos\Game6\Game6\MyDLAsteroidsFramework.cpp(463,40): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Sophie\source\repos\Game6\Game6\MyDLAsteroidsFramework.cpp(465,78): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Sophie\source\repos\Game6\Game6\MyDLAsteroidsFramework.cpp(465,50): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Sophie\source\repos\Game6\Game6\MyDLAsteroidsFramework.cpp(531,71): warning C4244: 'argument': conversion from 'const float' to 'int', possible loss of data
+C:\Users\Sophie\source\repos\Game6\Game6\MyDLAsteroidsFramework.cpp(531,55): warning C4244: 'argument': conversion from 'const float' to 'int', possible loss of data
+C:\Users\Sophie\source\repos\Game6\Game6\MyDLAsteroidsFramework.cpp(560,19): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Sophie\source\repos\Game6\Game6\MyDLAsteroidsFramework.cpp(561,19): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Generating Code...
+  Game6.vcxproj -> C:\Users\Sophie\source\repos\Game6\x64\Debug\Game6.exe

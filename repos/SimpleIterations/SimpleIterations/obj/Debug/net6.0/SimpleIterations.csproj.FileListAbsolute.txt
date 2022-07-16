@@ -1,0 +1,15 @@
+C:\Users\Sophie\source\repos\SimpleIterations\SimpleIterations\bin\Debug\net6.0\SimpleIterations.exe
+C:\Users\Sophie\source\repos\SimpleIterations\SimpleIterations\bin\Debug\net6.0\SimpleIterations.deps.json
+C:\Users\Sophie\source\repos\SimpleIterations\SimpleIterations\bin\Debug\net6.0\SimpleIterations.runtimeconfig.json
+C:\Users\Sophie\source\repos\SimpleIterations\SimpleIterations\bin\Debug\net6.0\SimpleIterations.dll
+C:\Users\Sophie\source\repos\SimpleIterations\SimpleIterations\bin\Debug\net6.0\SimpleIterations.pdb
+C:\Users\Sophie\source\repos\SimpleIterations\SimpleIterations\obj\Debug\net6.0\SimpleIterations.csproj.AssemblyReference.cache
+C:\Users\Sophie\source\repos\SimpleIterations\SimpleIterations\obj\Debug\net6.0\SimpleIterations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sophie\source\repos\SimpleIterations\SimpleIterations\obj\Debug\net6.0\SimpleIterations.AssemblyInfoInputs.cache
+C:\Users\Sophie\source\repos\SimpleIterations\SimpleIterations\obj\Debug\net6.0\SimpleIterations.AssemblyInfo.cs
+C:\Users\Sophie\source\repos\SimpleIterations\SimpleIterations\obj\Debug\net6.0\SimpleIterations.csproj.CoreCompileInputs.cache
+C:\Users\Sophie\source\repos\SimpleIterations\SimpleIterations\obj\Debug\net6.0\SimpleIterations.dll
+C:\Users\Sophie\source\repos\SimpleIterations\SimpleIterations\obj\Debug\net6.0\refint\SimpleIterations.dll
+C:\Users\Sophie\source\repos\SimpleIterations\SimpleIterations\obj\Debug\net6.0\SimpleIterations.pdb
+C:\Users\Sophie\source\repos\SimpleIterations\SimpleIterations\obj\Debug\net6.0\SimpleIterations.genruntimeconfig.cache
+C:\Users\Sophie\source\repos\SimpleIterations\SimpleIterations\obj\Debug\net6.0\ref\SimpleIterations.dll

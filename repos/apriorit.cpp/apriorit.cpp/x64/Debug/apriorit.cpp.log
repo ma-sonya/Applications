@@ -1,0 +1,3 @@
+﻿  apriorit.cpp.cpp
+C:\Users\Sophie\source\repos\apriorit.cpp\apriorit.cpp\apriorit.cpp.cpp(15,5): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  apriorit.cpp.vcxproj -> C:\Users\Sophie\source\repos\apriorit.cpp\x64\Debug\apriorit.cpp.exe

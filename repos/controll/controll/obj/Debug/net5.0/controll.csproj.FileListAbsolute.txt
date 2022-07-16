@@ -1,0 +1,16 @@
+C:\Users\Sophie\source\repos\controll\controll\bin\Debug\net5.0\controll.exe
+C:\Users\Sophie\source\repos\controll\controll\bin\Debug\net5.0\controll.deps.json
+C:\Users\Sophie\source\repos\controll\controll\bin\Debug\net5.0\controll.runtimeconfig.json
+C:\Users\Sophie\source\repos\controll\controll\bin\Debug\net5.0\controll.runtimeconfig.dev.json
+C:\Users\Sophie\source\repos\controll\controll\bin\Debug\net5.0\controll.dll
+C:\Users\Sophie\source\repos\controll\controll\bin\Debug\net5.0\ref\controll.dll
+C:\Users\Sophie\source\repos\controll\controll\bin\Debug\net5.0\controll.pdb
+C:\Users\Sophie\source\repos\controll\controll\obj\Debug\net5.0\controll.csproj.AssemblyReference.cache
+C:\Users\Sophie\source\repos\controll\controll\obj\Debug\net5.0\controll.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sophie\source\repos\controll\controll\obj\Debug\net5.0\controll.AssemblyInfoInputs.cache
+C:\Users\Sophie\source\repos\controll\controll\obj\Debug\net5.0\controll.AssemblyInfo.cs
+C:\Users\Sophie\source\repos\controll\controll\obj\Debug\net5.0\controll.csproj.CoreCompileInputs.cache
+C:\Users\Sophie\source\repos\controll\controll\obj\Debug\net5.0\controll.dll
+C:\Users\Sophie\source\repos\controll\controll\obj\Debug\net5.0\ref\controll.dll
+C:\Users\Sophie\source\repos\controll\controll\obj\Debug\net5.0\controll.pdb
+C:\Users\Sophie\source\repos\controll\controll\obj\Debug\net5.0\controll.genruntimeconfig.cache

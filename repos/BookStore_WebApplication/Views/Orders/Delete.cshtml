@@ -1,0 +1,72 @@
+﻿@model BookStore_WebApplication.Order
+
+@{
+    ViewData["Title"] = "Delete";
+}
+
+<h4>Ви справді бажаєте видалити замовлення?</h4>
+
+<div>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.OrderDate)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.OrderDate)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.IdClientNavigation)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.IdClientNavigation.FullName)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.IdDeliveryNavigation)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.IdDeliveryNavigation.DeliveryName)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.IdEmployeeNavigation)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.IdEmployeeNavigation.FullName)
+        </dd>
+        <dt class="col-sm-2">
+            <label>Замовлені книги</label>
+        </dt>
+        <dd class = "col-sm-10">
+            @foreach(var item in ViewBag.Books)
+                {
+                   @item
+                   <br />
+                }           
+        </dd>
+    </dl>
+
+     @{
+            if (User.Identity.IsAuthenticated && User.IsInRole("admin"))
+            {
+                <form asp-action="Delete">
+                    <input type="hidden" asp-for="Id" />
+                    <input type="submit" value="Видалити" class="btn btn-danger" /> 
+
+                    <div>
+                        <a asp-action="Index">Назад</a>
+                    </div>
+                </form>
+            }
+            else
+            {
+                 <form asp-action="UserDeleteConfirmed">
+                    <input type="hidden" asp-for="Id" />
+                    <input type="submit" value="Видалити" class="btn btn-danger" /> 
+
+                    <div>
+                        <a asp-action="Index" asp-controller="UserOrders">Назад</a>
+                    </div>
+                </form>
+            }
+        }
+</div>

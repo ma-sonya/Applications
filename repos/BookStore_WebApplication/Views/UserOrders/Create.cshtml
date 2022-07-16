@@ -1,0 +1,103 @@
+﻿@model BookStore_WebApplication.ViewModels.UserOrderViewModel
+
+<link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.11.5/css/jquery.dataTables.css">  
+<script type="text/javascript" charset="utf8" src="https://cdn.datatables.net/1.11.5/js/jquery.dataTables.js"></script>
+<link rel="stylesheet" type="text/css" href="/DataTables/datatables.css"> 
+<script type="text/javascript" charset="utf8" src="/DataTables/datatables.js"></script>
+
+@section Scripts{
+    <script src="~/lib/jquery/dist/jquery.jquery.min.js"></script>
+    <script src="~/lib/bootstrap/js/bootstrap.bootstrap.min.js"></script>
+}
+
+<h3>Створення замовлення</h3>
+
+<body>
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="ClientName" class="control-label"></label>
+                <input asp-for="ClientName" class="form-control" />
+                <span asp-validation-for="ClientName" class="text-danger"></span> 
+            </div>
+
+            <div class="form-group">
+                <label asp-for="ClientPhoneNumber" class="control-label"></label>
+                <input asp-for="ClientPhoneNumber" class="form-control" />
+                <span asp-validation-for="ClientPhoneNumber" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="ClientAddress" class="control-label"></label>
+                <input asp-for="ClientAddress" class="form-control" />
+                <span asp-validation-for="ClientAddress" class="text-danger"></span>
+            </div>
+
+            <br />
+
+            <div>
+                 <table style="background-image: linear-gradient(#196F3D, #212F3D); border:dashed 3px #A569BD; color:white;">   
+                       <tr>
+                          <th></th>
+                          <th></th>
+                       </tr>
+                       @{  int tmp_id = 0;
+                           foreach (var item in ViewBag.AllBooks)
+                              {
+                                 Book_BookOrderDto autDtoItem = (Book_BookOrderDto)item;
+
+                                 if (tmp_id != autDtoItem.IdStore)
+                                 {   
+                                     tmp_id = autDtoItem.IdStore;
+                                     @foreach (var store in ViewBag.Stores)
+                                        {
+                                                if (store.Id == tmp_id)
+                                                {
+                                                    <td colspan="2" align="center" style="color:greenyellow;">
+                                                        @store.Name  
+                                                        <br />
+                                                    </td>
+                                                    
+                                                }
+                                        }                                        
+                                 }
+                                 <tr>
+                                      <td>
+                                         <input type="hidden" asp-for="@autDtoItem.BookId" />
+                                      </td>
+                                      <td>
+                                         @Html.DisplayFor(modelItem => autDtoItem.Name)
+                                      </td>
+                                      <td>
+                                          <input id="@autDtoItem.BookId" name="@autDtoItem.BookId" asp-for="@autDtoItem.IsOrderedBook" />
+                                      </td>
+                                      <td>
+                                           <input type="hidden" asp-for="@autDtoItem.Number" />
+                                      </td>
+                                      <td>
+                                          <input name="number_@autDtoItem.BookId" asp-for="@autDtoItem.Number"/>
+                                      </td>
+                                  </tr>
+                              } 
+                       }
+                   </table>
+             </div>
+
+             <br />           
+
+            <div class="form-group">
+                <input type="submit" value="Створити" class="btn btn-success" />
+            </div>
+
+        </form>
+
+        <div>
+            <a asp-controller="UserOrders" asp-action="Index">Назад</a>
+        </div>
+        <br />
+    </div>
+</div>
+</body>

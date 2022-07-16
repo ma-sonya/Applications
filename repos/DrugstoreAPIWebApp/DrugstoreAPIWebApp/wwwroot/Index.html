@@ -1,0 +1,44 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Лабораторна робота №2. Аптека</title>
+    <link rel="stylesheet" href="css/site.css" />
+</head>
+<body style="background-image: url('snoop.jpeg')">
+    <h1>Drugstore</h1>
+    <h3>Додавання категорії</h3>
+    <form action="javascript:void(0);" method="POST" onsubmit="addCategory()">
+        <input type="text" id="add-name" placeholder="Назва категорії ліків" />
+        <input type="text" id="add-description" placeholder="Опис" />
+        <input type="submit" value="Додати" />
+    </form>
+
+    <div id="editCategory">
+        <h3>Редагування</h3>
+        <form action="javascript:void(0);" onsubmit="updateCategory()">
+            <input type="hidden" id="edit-id" />
+            <input type="text" id="edit-name" />
+            <input type="text" id="edit-description" />
+            <input type="submit" value="Зберегти" />
+            <a onclick="closeInput()" aria-label="Close">&#10006;</a>
+        </form>
+    </div>
+
+    <p id="counter"></p>
+
+    <table>
+        <tr>
+            <th>Категорія :</th>
+            <th>Опис :</th>
+        </tr>
+        <tbody id="categories"></tbody>
+    </table>
+
+    <script src="js/lab2.js" asp-append-version="true"></script>
+    <script type="text/javascript">
+        getCategories();
+    </script>
+
+</body>
+</html>

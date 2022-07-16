@@ -1,0 +1,7 @@
+﻿  Game.cpp
+C:\Users\Sophie\source\repos\Game2\Game.cpp(5,1): error C2084: function 'bool MyFramework::Init(void)' already has a body
+C:\Users\Sophie\source\repos\Game2\Game.hpp(17): message : see previous definition of 'Init'
+C:\Users\Sophie\source\repos\Game2\Game.cpp(10,6): warning C4273: 'drawTestBackground': inconsistent dll linkage
+C:\Libs\DragonsLake\include\Framework.h(14,20): message : see previous definition of 'drawTestBackground'
+  main.cpp
+  Generating Code...
