@@ -1,5 +1,0 @@
-﻿  Client_socket.cpp
-C:\Users\Sophie\source\repos\Client_socket\Client_socket\Client_socket.cpp(57,31): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\Sophie\source\repos\Client_socket\Client_socket\Client_socket.cpp(67,31): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\Sophie\source\repos\Client_socket\Client_socket\Client_socket.cpp(76,31): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
-  Client_socket.vcxproj -> C:\Users\Sophie\source\repos\Client_socket\x64\Debug\Client_socket.exe
