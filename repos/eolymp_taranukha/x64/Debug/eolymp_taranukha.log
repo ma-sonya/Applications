@@ -1,3 +1,0 @@
-﻿  eolymp_taranukha.cpp
-C:\Users\Sophie\source\repos\eolymp_taranukha\eolymp_taranukha.cpp(21,31): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
-  eolymp_taranukha.vcxproj -> C:\Users\Sophie\source\repos\eolymp_taranukha\x64\Debug\eolymp_taranukha.exe
